@@ -10,3 +10,7 @@ def selection_sort(arr):
 arr = [5, 7, 0, 14, 6, 88]
 selection_sort(arr)
 print(arr)
+
+
+
+
